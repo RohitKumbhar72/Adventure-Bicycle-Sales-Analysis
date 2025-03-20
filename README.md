@@ -1,14 +1,14 @@
 # 🚀 Adventure Bicycle Sales Dashboard 
 Adventure Bicycle Company is dedicated to providing high-quality bicycles and accessories for cycling enthusiasts.
-<img src="images/bike.jpg" width="2000" height="500"/>&nbsp;
+<img src="Images/bike.jpg" width="2000" height="500"/>&nbsp;
 ## Overview
 
 This Power BI dashboard provides comprehensive insights into the sales performance of a bicycle business. It visualizes data related to revenue, profit, orders, and return rates, enabling data-driven decisions. The dashboard includes interactive visuals and filters for enhanced user experience.
 
 ## Tool used :
-<img src="images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp;
+<img src="Images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp;
 ## 🔎 1. Key Performance Metrics
-💰 Revenue: $24.9M
+### 💰 Revenue: $24.9M
 The company has generated $24.9 million in total revenue over the analyzed period (2020–2022).
 The revenue trend shows consistent growth, with a noticeable upward spike around mid-2021, indicating a period of strong sales performance.
 💵 Profit: $10.5M
