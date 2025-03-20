@@ -1,4 +1,4 @@
-# 🚀 Adventure Bicycle Sales Dashboard 
+# Adventure Bicycle Sales Dashboard 
 Adventure Bicycle Company is dedicated to providing high-quality bicycles and accessories for cycling enthusiasts.
 <img src="Images/bike.jpg" width="2000" height="500"/>&nbsp;
 ## Overview
@@ -31,17 +31,17 @@ Second-largest category with 13.9K orders, contributing significantly to revenue
 ### Clothing:
 Although fewer orders (7K), this category may have potential for growth through marketing and bundling strategies.
 ## 🔥 4. Product Performance Insights
-Top Performers (Revenue):
-### 🚲 Mountain-200 Black, 46:
+### Top Performers (Revenue):
+#### 🚲 Mountain-200 Black, 46:
 606 orders, generating $12.41M in revenue with a 2.97% return rate.
 This product drives the highest revenue, indicating its popularity and profitability.
-### 🚲 Mountain-200 Black, 42:
+#### 🚲 Mountain-200 Black, 42:
 602 orders, contributing $12.33M with a slightly higher 3.49% return rate.
-Highest Return Rate:
+### Highest Return Rate:
 ### 🔴 Road-150 Red, 48:
 Although it generated $6.4M in revenue, it has the highest return rate of 4.47%, which might indicate potential quality or sizing issues.
-Lowest Return Rate:
-### 🟢 Mountain-200 Silver, 42:
+### Lowest Return Rate:
+#### 🟢 Mountain-200 Silver, 42:
 Return rate of 2.74%, indicating customer satisfaction and product reliability.
 ## 🛍️ 5. Most Ordered & Most Returned Product Types
 ### Most Ordered:
